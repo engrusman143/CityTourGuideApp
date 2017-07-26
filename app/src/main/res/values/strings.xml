@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">City Tour Guide</string>
+    <string name="list_events">Famous</string>
+    <string name="list_historical_sites">Attractions</string>
+    <string name="list_restaurants">Bars</string>
+    <string name="list_shooping_centers">Markets</string>
+    <string name="the_artist">The Artist</string>
+    <string name="casa_bia">Casa Bia</string>
+    <string name="upstairs_rooftop">Upstairs Rooftop</string>
+    <string name="shift_pub">Shift Pub</string>
+    <string name="casa_bia_address">Str.Mihail Sebastian, nr.19</string>
+    <string name="the_artist_address">Calea Victoriei 147</string>
+    <string name="upstairs_rooftop_address">Str. Sevastopol 24</string>
+    <string name="shift_pub_address">Str. G-l Eremia Grigorescu, nr.17</string>
+    <string name="shift_pub_description">A cozy, beautiful bistro on a quiet street in the heart of the city.</string>
+    <string name="upstairs_rooftop_description">
+        "Delightful settlement, Fusion cuisine and World&#8211;class cocktails &#8211; tree main ingredients for a breathtaking skyline over Bucharest.\n\n"
+
+        "Upstairs, a chic all year rooftop bar located where East meets West, where Thai, French, US and international influences can be "
+        "experienced in a stylish melange of cultures, events and goodies, is now opened in order to offer you a lifetime experience. "
+        "Words are hard to describe the amazing view over the \„Little Paris\”, the electric and dramatic roofbar interior or the glamour "
+        "and stylish nightview, so that is why we are waiting for you at anytime.\n\n"
+
+        "Let\’s have a new beginning, together!\n\n"
+    </string>
+    <string name="the_artist_description">
+        "Those who walk into the restaurant do the first steps on a memorable journey. At \“the Artist\” "
+        "culinary experience is the transformation into an experience of emotions. Each dish is designed "
+        "to reach all sensory chords. Here you will experience the amazing taste of something truly new, "
+        "innovative and delicious.\n\n"
+
+        "To offer new emotions and unique experiences, every season Chef Paul creates a new collection "
+        "of delicious masterpieces, to the delight of loyal guests. Each menu is left to the imagination "
+        "and artistry of blending the highest quality ingredients prepared with more creative and "
+        "surprising presentation using cooking methods that optimize flavor.\n\n"
+
+        "With an elegant ambiance  in an establishment where modern design blends in with the historical "
+        "elements of the property well preserved to enrich its personality, Restaurant \“the Artist\” "
+        "creates a perfect setting for a unique experience for romance, friends or business. Here your "
+        "imagination will be challenged and known gastronomic limits will be demolished. Are you "
+        "ready for a unique experience?\n\n"
+    </string>
+    <string name="casa_bia_description">
+        "What is the Casa Bia for connoisseurs?\n\n"
+
+        "An oasis of relaxation to escape from the daily, a secluded and discreet place, ideal for a "
+        "lunch or business dinner, for an evening with family or friends. With a rich experience in "
+        "culinary art, the chefs here perfectly know the true science of Romanian cuisine, combining "
+        "the unmistakable taste with tradition but also the international one, inviting you to a "
+        "gourmet travel around the world.\n\n"
+
+        "Prepared with fresh ingredients, full of flavor and passion, delicious snacks, salads, "
+        "soups, pasta, seafood, menus of chicken, sheep, calf, pig or fish, and spectacular desserts "
+        "come to you to immerse your tastes, in a relaxing atmosphere, wanting you to always come "
+        "back here. Passion, enthusiasm, unique decoration that blends the past with the present, "
+        "services that excel through quality.\n\n"
+
+        "Casa Bia.\n\n"
+
+        "A place reserved for you.\n\n"
+    </string>
+    <string name="timeshift_festival">Timeshift Festival</string>
+    <string name="timeshift_festival_address">Bld. Mărăști 65&#8211;67</string>
+    <string name="jazz_festival">Jazz Festival 2017</string>
+    <string name="jazz_festival_address">George Enescu Square</string>
+    <string name="evanescence_concert">Evanescence Concert</string>
+    <string name="evanescence_concert_address">Roman Arenas, Carol I Park</string>
+    <string name="shine_festival">Shine Festival</string>
+    <string name="shine_festival_address">Roman Arenas, Carol I Park</string>
+    <string name="peasant_museum">National Romanian Peasant Museum</string>
+    <string name="mogosoaia_palace">Mogosoaia Palace</string>
+    <string name="romanian_athenaeum">Romanian Athenaeum</string>
+    <string name="cec_palace">CEC Palace</string>
+    <string name="afi_palace">Afi Palace Cotroceni</string>
+    <string name="baneasa_shooping_city">City Mall</string>
+    <string name="plaza_romania">Plaza </string>
+    <string name="promenada_mall">Promenada Mall</string>
+    <string name="timeshift_festival_description">
+        "When music and technology meet, something groundbreaking is ought to happen \• TIMESHIFT "
+        "Bucharest Music Festival &#8211; Step into another dimension! "
+        "Between 20&#8211;23 of July enjoy the full festival experience at Romexpo OPEN AIR.\n\n"
+
+        "DJ SNAKE is headlining on the 1st day (Thursday July 20th) of TIMESHIFT in a time&#8211;stopping "
+        "show at the Main Stage. The other three stages are housing artists like Chris Liebing, Loco "
+        "Dice and Faithless (DJ SET).\n\n"
+
+        "On Friday night BLOC PARTY takes over the Main Stage alongside WHITE LIES and MYSTERY JETS. "
+        "Orbital, Rudimental (DJ SET), Alex Metric and Hot Chip ((DJ SET) are some of the artists "
+        "announced for the eclectic remaining stages.\n\n"
+
+        "DAVID GUETTA brings his A&#8211;game in a revolutionary light &amp; visuals show on Saturday night. "
+        "Robin Schulz, Jonas Blue, Dubfire and Markus Schulz are confirmed to play the festival as well.\n\n"
+
+        "On the last day of TIMESHIFT, the Main Stage is enriched by ABOVE &amp; BEYOND. Catch also "
+        "Goldie and Chicane on Sunday. From EDM, techno, tech&#8211;house, trance, indie&#8211;rock and "
+        "alternative, music&#8211;lovers and festival&#8211;goers will find the perfect setup for the ultimate "
+        "DJs and bands that will perform in Bucharest.\n\n"
+    </string>
+    <string name="jazz_festival_description">
+        "The sixth edition of the Bucharest Jazz Festival will take place between July 3 and 9, 2017. "
+        "The festival will feature five live concerts, held between 5 and 9 July in George Enescu "
+        "Square, and related events between 3 and 9 July, at ARCUB. The entry is free.\n\n"
+
+        "Bucharest Jazz Festival continues this year\'s tradition of events that put jazz in the heart "
+        "of Bucharest\'s cultural preoccupations.\n\n"
+
+        "The festival launches a new program for the promotion of young jazz performers called New "
+        "Jazz Voices. The contest is part of the New Jazz Works program, launched in 2015 at the "
+        "suggestion of curator Lucian Ban and coming in 2017 to support the Romanian jazz vocalists, "
+        "at the proposal of the artist and current curator, Teodora Enache. The New Jazz Voices "
+        "enrollment call is open until June 14, 2017, including the winning artist\'s chance to "
+        "perform on the Bucharest Jazz Festival stage in the 2018 edition. Details about the "
+        "participation can be found on the festival\'s website: www.bucharestjazzfestival.ro. "
+        "Another novelty is the introduction in the festival program of the series of live sessions "
+        "and jazz improvisations to be held at ARCUB after the concerts in George Enescu Square. "
+        "Every night, part of the finalists of the New Jazz Voices competition will hold a live "
+        "session alongside the band led by Cătălin Milea.\n\n"
+
+        "Soon the artists will be announced to climb the festival stage.\n\n"
+    </string>
+    <string name="evanescence_concert_description">
+        "On June 29 at 20:00, EVANESCENCE will play in Bucharest at the Romanian Arenas. Tickets at "
+        "special prices are already on sale at www.iabilet.ro and in the network iabilet.ro/retea. "
+        "Evanescence, one of America\'s most beloved and appreciated rock bands, is once again in a "
+        "magical formula where the voice of famous singer Amy Lee ennobles the songs that have "
+        "consecrated the band and which have remained immortal on the lips of fans around the world. "
+        "With albums sold in tens of millions of copies around the world, Evanescence has been "
+        "rewarded with numerous international nominations and awards, including two Grammy\'s received "
+        "in 2004 for \"Bring Me To Life\", \"Best New Artist\" and \"Best Hard Rock Performance\".\n\n"
+
+        "The album \"Fallen\" is still the top of the preferences of those who love rock music, "
+        "Platinum certified worldwide. \"Fallen\" is one of eight albums of all time that have managed "
+        "to stay on the top Billboad 200 for more than a year. \"The Open Door\" (2006) marked a new "
+        "success in the record of the famous group, with songs such as \"Lithium\" or \"Sweet Sacrifice\", "
+        "and \"Evanescence\" (2011) reached the top spot immediately after launching and was awarded "
+        "Gold in Australia, Canada and the UK.\n\n"
+
+        "Evanescence\'s music carries a full range of influences and has been featured by critics in "
+        "various categories, from rock, not metal and gothic to industrial, progressive or hard rock. "
+        "With sophisticated valences and great attention to detail, Evanescence has been able to offer "
+        "audiences fascinating pieces that have already passed the proof of time.\n\n"
+
+        "Along with Evanescence, you will have the chance to see three super bands whose compositions "
+        "have crossed the borders of the countries they come from: Killa (IT), Sede Vacante (GR) and "
+        "Fall Has Come (IT).\n\n"
+    </string>
+    <string name="shine_festival_description">
+        "The fourth edition of the Shine Festival will be held from 30 June to 1 July 2017 at "
+        "the Romanian Arenas.\n\n"
+
+        "After winning the Best Alternative Festival at Metalhead Awards in 2015, and enjoying the "
+        "presence of more than 8,000 viewers in 2016, under the aegis of \"Come &amp; Shine\", Shine wishes "
+        "to maintain its position in the leaders of the Capital festivals and thank the fans for the "
+        "vote of confidence and promises them that they will not deceive their expectations even "
+        "in 2017.\n\n"
+
+        "Canadians from Three Days Grace arrive for the first time in Romania as headliners of the "
+        "Shine Festival, the fourth edition, which will take place on June 30 and July 1 at the "
+        "Romanian Arenas in Bucharest. The festival changed its date (initially it took place on July "
+        "1 and 2) just to make room for such a big name on its stage! Also, Subcarpati come for the "
+        "second consecutive year to rumble the Romanian Arenas, playing officially with Coma and "
+        "Alternosfera, ambassadors of the festival.\n\n"
+
+        "In addition to the above&#8211;mentioned troops, the Vita de Vie will also be on the stage of "
+        "the festival, Şuie Paparude, E.M.I.L. And the Luna Amara. The newest confirmed bands, which "
+        "also close the festival poster, are: Am fost la munte și Mi&#8211;a Plăcut, Jinxy Von D\'ers, "
+        "Umbra, Next Ex, Arthur and Mouse N Monkeyz.\n\n"
+    </string>
+    <string name="cec_palace_address">Calea Victoriei 13</string>
+    <string name="romanian_athenaeum_address">Benjamin Franklin 1&#8211;3</string>
+    <string name="mogosoaia_palace_address">Park Valley 1, Mogoșoaia</string>
+    <string name="peasant_museum_address">Pavel Dimitrievici Kiseleff 3</string>
+    <string name="mogosoaia_palace_description">
+        "Mogoșoaia Palace is situated about 10 kilometres from Bucharest, Romania. It was built "
+        "between 1698&#8211;1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance "
+        "style or Brâncovenesc style. The palace bears the name of the widow of the Romanian boyar "
+        "Mogoș, who owned the land it was built on.\n\n"
+    </string>
+    <string name="peasant_museum_description">
+        "The National Museum of the Romanian Peasant is a museum in Bucharest, Romania, with a "
+        "collection of textiles (especially costumes), icons, ceramics, and other artifacts of "
+        "Romanian peasant life. One of Europe\'s leading museums of popular arts and traditions, "
+        "it was designated "European Museum of the Year" for 1996. Its collection includes over "
+        "100,000 objects.\n\n"
+    </string>
+    <string name="romanian_athenaeum_description">
+        "The Romanian Athenaeum is a concert hall in the center of Bucharest, Romania and a landmark "
+        "of the Romanian capital city. Opened in 1888, the ornate, domed, circular building is "
+        "the city\'s main concert hall and home of the \"George Enescu\" Philharmonic and of the "
+        "George Enescu annual international music festival.\n\n"
+    </string>
+    <string name="cec_palace_description">
+        "The CEC Palace in Bucharest, Romania, built in 1900 and situated on Calea Victoriei opposite "
+        "the National Museum of Romanian History, is the headquarter of CEC Bank.\n\n"
+
+        "Before the construction of the palace, the location was occupied by the ruins of a monastery "
+        "(Saint John the Great) and an adjoining inn. The 16th&#8211;century church was renovated by "
+        "Constantin Brâncoveanu during 1702&#8211;1703, but later deteriorated and was demolished in 1875.\n\n"
+
+        "The palace was built as a new headquarters for Romania\'s oldest bank, the public savings "
+        "institution Casa de Depuneri, Consemnațiuni și Economie, later known as C.E.C., and nowadays "
+        "CEC Bank. The land was bought and the building constructed with the institution\'s own funds. "
+        "Work started on June 8, 1897 and was completed in 1900. The project was designed by the "
+        "architect Paul Gottereau, a graduate of the École nationale supérieure des Beaux&#8211;Arts in "
+        "Paris; construction was supervised by the Romanian architect Ion Socolescu.\n\n"
+    </string>
+    <string name="afi_palace_address">Vasile Milea 4</string>
+    <string name="afi_palace_description">
+        "AFI Palace Cotroceni is a shopping mall in Bucharest, Romania. It is located in the "
+        "central&#8211;western part of the city, between the city center and two of the largest "
+        "residential districts, Militari and Drumul Taberei.\n\n"
+
+        "The mall has 300 stores, 1 IMAX (3&#8211;D Cinema), 20 screen cinema complex, 30 fast&#8211;food and "
+        "restaurants, 1 hypermarket Auchan, kids playground, ice ring, climbing wall, water features, "
+        "games &amp; entertainment, fashion and 2,500 underground &amp; deck parking spaces.\n\n"
+    </string>
+    <string name="baneasa_shooping_city_address">București&#8211;Ploiești 42D</string>
+    <string name="baneasa_shooping_city_description">
+        "Băneasa Shopping City is a shopping center in northern Bucharest, opened on April 18, 2008. "
+        "It has a total leasable area of ​​85,000 square meters and is owned by businessman Gabriel "
+        "Popoviciu. The builder of the mall was the French company Bouygues. The investment in the "
+        "development of the mall was 150 million euros. Baneasa Shopping City is the fifth mall "
+        "opened in Bucharest after Bucharest Mall and Plaza Romania, City Mall and Unirea Shopping "
+        "Center. It has a total of 200 stores. The shopping center attracted over 750,000 visitors "
+        "in the first month.\n\n"
+
+        "Baneasa Shopping City is part of the Baneasa Project, controlled by businessmen Gabriel "
+        "Popoviciu and Radu Dimofte, alongside the University of Agricultural Sciences and Veterinary "
+        "Medicine Bucharest (USAMVB). The investment in the whole project is estimated at 1.8 "
+        "billion euros. The Băneasa commercial park (also called Băneasa Commercial Zone), which "
+        "includes the Băneasa Shopping City shopping mall, the Feeria shopping center, as well as "
+        "distinct units of retailers such as IKEA, Carrefour, Bricostore or Mobexpert, is the "
+        "largest development of its kind in Romania. Has involved total investments estimated at "
+        "around 300 million euros so far. The Baneasa Commercial Zone is one of the three integrated "
+        "parts of the Baneasa Project. In addition to the 450,000 square meter shopping area, the "
+        "Baneasa Project will provide over 3,000 dwelling units and a business park with A and A plus "
+        "office space of 160,000 square meters.\n\n"
+    </string>
+    <string name="plaza_romania_address">Bulevardul Timișoara 26</string>
+    <string name="plaza_romania_description">
+        "Plaza Romania is a shopping center in Bucharest, inaugurated on October 28, 2004. It has "
+        "a leasable area of 41,000 square meters, and houses over 150 shops and cinemas in "
+        "total. It is located at the intersection of Timisoara Boulevard with The Lujer Passage, "
+        "between Drumul Taberei and Militari districts. It was inaugurated after one total "
+        "investment of 45 million euros.\n\n"
+        "It is owned by Turkey\'s Anchor Group, which also owns the shopping center "
+        "Bucharest Mall. Anchor Group is part of the Turkish FIBA group and is one of the first "
+        "Foreign investors who entered the local real estate market in 1997.\n\n"
+    </string>
+    <string name="promenada_mall_address">Calea Floreasca 246B</string>
+    <string name="promenada_mall_description">
+        "Promenada Mall Bucharest is a shopping center in Romania. It was developed by the Raiffeisen "
+        "Evolution Investment Fund and was inaugurated on October 17, 2013, after an investment of "
+        "130 million euros. Promenada is the first mall in Bucharest opened after the financial "
+        "crisis of 2007&#8211;2009, the construction started on January 2012 and lasted 22 months.\n\n"
+
+        "Flanco, Billa, Zara, H &amp; M, C &amp; A and Peek &amp; Cloppenburg are present in the "
+        "shopping center.\n\n"
+
+        "Promenada Mall, Bucharest won the first prize in the \"Mixed Solutions\" category at the "
+        "First Rigips Trophy Romania Prize.\n\n"
+
+        "In November 2013, the shopping center was bought by the NEPI investment fund.\n\n"
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="geolocation">geo:0,0?q=%1$.7f,%2$.7f</string>
+    <string name="geolocation_1">geo:%1$s,%2$s?q=%3$s,%4$s</string>
+    <string name="geolocation_2">geo:%1$s,%2$s?q=%3$s</string>
+    <string name="url_location">https://www.google.com/maps/search/?api=1&amp;query=%1$.7f,%2$.7f</string>
+</resources>

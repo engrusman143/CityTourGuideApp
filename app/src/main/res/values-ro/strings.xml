@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bucharest Tour Guide</string>
+    <string name="list_events">Evenimente</string>
+    <string name="list_historical_sites">Puncte istorice</string>
+    <string name="list_restaurants">Restaurante</string>
+    <string name="list_shooping_centers">Centre comerciale</string>
+    <string name="the_artist">The Artist</string>
+    <string name="casa_bia">Casa Bia</string>
+    <string name="upstairs_rooftop">Upstairs Rooftop</string>
+    <string name="shift_pub">Shift Pub</string>
+    <string name="casa_bia_address">Str. Mihail Sebastian, nr.19</string>
+    <string name="the_artist_address">Calea Victoriei 147</string>
+    <string name="upstairs_rooftop_address">Str. Sevastopol 24</string>
+    <string name="shift_pub_address">Str. G-l Eremia Grigorescu, nr.17</string>
+    <string name="shift_pub_description">
+        "Un bistro frumos și confortabil pe o străduță liniștită în inima orașului."
+    </string>
+    <string name="upstairs_rooftop_description">
+        "Destinație plăcută, bucătărie Fusion și cocktail&#8211;uri de clasă mondială &#8211; cele trei ingrediente "
+        "principale pentru o panoramă uimitoare peste București.\n\n"
+
+        "La etaj, un bar șic pe tot parcursul anului, situat unde se întâlnește estul cu vestul, unde "
+        "influențele thailandeze, franceze, americane și internaționale pot fi experimentate într&#8211;un "
+        "mélange elegant a culturilor, evenimentelor și bunătățurilor, este acum deschisă pentru a vă "
+        "oferi o experiență pe viață. Cuvintele sunt greu de descris vederea uimitoare asupra \"Micului "
+        "Paris\", interiorul electric și dramatic al barului de acoperiș sau strălucirea și viziunea "
+        "elegantă de noapte, de aceea vă așteptăm oricând.\n\n"
+
+        "Hai să avem un nou început împreună!\n\n"
+    </string>
+    <string name="the_artist_description">
+        "Cei care ajung în restaurant fac primii pași într&#8211;o călătorie de neuitat. La \“the Artist\” "
+        "experiență culinară este transformarea într&#8211;o experiență a emoțiilor. Fiecare fel de mâncare "
+        "este proiectat pentru a ajunge la toate corzile senzoriale. Aici veti experimenta gustul "
+        "uimitor de ceva cu adevărat nou, inovator și delicios.\n\n"
+
+        "Pentru a oferi noi emoții și experiențe unice, în fiecare sezon Chef Paul creează o nouă "
+        "colecție de capodopere delicioase, spre deliciul oaspeților fideli. Fiecare meniu este "
+        "unicat datorita imaginației și măiestriei de a combina ingrediente de calitate, preparate "
+        "cu metode creative și surprinzătoare in prezentare si care optimizează aroma.\n\n"
+
+        "Cu o ambianță elegantă într&#8211;un spatiu în care designul modern se îmbină cu elementele "
+        "istorice ale proprietății bine conservate pentru a îmbogăți personalitatea, restaurantul "
+        "\“The Artist\” creează un cadru perfect pentru o experienta unica, seri in doi, cu "
+        "prietenii sau de afaceri. Aici imaginația ta va fi contestată și limite gastronomice "
+        "cunoscute vor fi demolate. Esti gata pentru o experiență unică?\n\n"
+    </string>
+    <string name="casa_bia_description">
+        "Ce reprezintă Casa Bia pentru cunoscători?\n\n"
+
+        "O oază de relaxare pentru a evada din cotidian, un loc retras și discret, ideal pentru un "
+        "prânz sau o cină de afaceri, pentru o seară cu familia sau cu prietenii. Cu o bogată "
+        "experiență în arta culinară, bucătarii de aici cunosc perfect adevărata știință pe care "
+        "o presupune bucătăria românească, ce îmbină gustul inconfundabil cu tradiția, dar și cea "
+        "internațională, invitându&#8211;vă într&#8211;o călătorie gastronomică în jurul lumii.\n\n"
+
+        "Pregătite cu ingrediente proaspete, pline de savoare și foarte multă pasiune, gustările "
+        "din cele mai fine, salatele, supele, pastele, fructele de mare, meniurile din carne de "
+        "pasăre, oaie, vițel, porc sau pește, dar și spectaculoasele deserturi vin să vă îmbie "
+        "gusturile, într&#8211;o atmosferă relaxantă, dorindu&#8211;vă să vă întoarceți mereu aici. Pasiune, "
+        "entuziasm, decor unic ce îmbină parcă trecutul cu prezentul, servicii ce excelează prin "
+        "calitate.\n\n"
+
+        "Casa Bia.\n\n"
+
+        "Un loc rezervat special pentru dumneavoastră.\n\n"
+    </string>
+    <string name="timeshift_festival_description">
+        "Când se întâlnesc muzica și tehnologia, trebuie să se întâmple ceva inovativ \• TIMESHIFT "
+        "Festivalul de Muzică București &#8211; Pașește într&#8211;o altă dimensiune! "
+        "Între 20&#8211;23 iulie vă puteți bucura de experiența completă a festivalului la Romexpo OPEN AIR.\n\n"
+
+        "DJ SNAKE se află în prima zi (joi, 20 iulie), la TIMESHIFT, într&#8211;un spectacol care oprește "
+        "timpul la scena principală. Celelalte trei scene gazduiesc artiști precum Chris Liebing, "
+        "Loco Dice și Faithless(DJ SET).\n\n"
+
+        "Vineri seara, BLOC PARTY preia scena principală alaturi de WHITE LIES si MYSTERY JETS. "
+        "Orbital, Rudimental(DJ SET), Alex Metric și Hot Chip(DJ SET) sunt câțiva dintre artiștii "
+        "anunțați pentru scenele eclectice rămase.\n\n"
+
+        "DAVID GUETTA își aduce jocul A într&#8211;un spectacol revoluționar de lumină și efecte vizuale "
+        "în noaptea de sâmbătă. Robin Schulz, Jonas Blue, Dubfire și Markus Schulz sunt confirmați "
+        "că vor lua parte la festival.\n\n"
+
+        "În ultima zi a TIMESHIFT, scena principală este îmbogățită de ABOVE &amp; BEYOND. Prinde și "
+        "Goldie și Chicane duminică. De la EDM, techno, tech&#8211;house, trance, indie&#8211;rock și "
+        "alternative, iubitorii de muzică și entuziaștii de festivaluri vor găsi configurația "
+        "perfectă de DJ și trupe care vor concerta la București.\n\n"
+    </string>
+    <string name="jazz_festival_description">
+        "Cea de&#8211;a șasea ediție a Bucharest Jazz Festival va avea loc în perioada 3&#8211;9 iulie 2017. "
+        "Festivalul va cuprinde cinci seri de concerte live, desfășurate între 5 și 9 iulie în "
+        "Piața George Enescu, și evenimente conexe, între 3 și 9 iulie, la ARCUB. Intrarea este liberă. "
+        "Bucharest Jazz Festival continuă și anul acesta tradiția evenimentelor care pun jazzul "
+        "în centrul preocupărilor culturale ale bucureștenilor.\n\n"
+
+        "Festivalul lansează un nou program de promovare a tinerilor interpreți din jazzul românesc, "
+        "intitulat New Jazz Voices. Concursul face parte din programul de finanțare New Jazz Works, "
+        "demarat în 2015 la propunerea curatorului Lucian Ban și venind în 2017 în sprijinul "
+        "vocaliștilor români de jazz, la propunerea artistei și actualului curator, Teodora Enache. "
+        "Apelul pentru înscrieri la New Jazz Voices este deschis până pe 14 iunie 2017, inclusiv, "
+        "oferind șansa artistului câștigător de a concerta pe scena Bucharest Jazz Festival în "
+        "cadrul ediției din 2018. Detalii în legătură cu participarea se pot găsi pe site&#8211;ul "
+        "festivalului: www.bucharestjazzfestival.ro.\n\n"
+
+        "O altă noutate o constituie introducerea în programul festivalului a seriei de live "
+        "sessions și improvizații de jazz ce va avea loc la ARCUB după concertele din Piața "
+        "George Enescu. În fiecare seară, o parte dintre finaliștii competiției New Jazz Voices "
+        "va susține un live session alături de formația condusă de Cătălin Milea. "
+        "În curând vor fi anunțați artiștii care vor urca pe scena festivalului.\n\n"
+    </string>
+    <string name="evanescence_concert_description">
+        "Pe 29 iunie de la ora 20:00, EVANESCENCE vor canta la Bucuresti la Arenele Romane. "
+        "Biletele la preturi speciale sunt deja in vanzare pe www.iabilet.ro si in reteaua iabilet.ro/retea. "
+        "Evanescence, una dintre cele mai iubite si apreciate trupe rock americane, se afla "
+        "din nou intr&#8211;o formula magica in care vocea celebrei cantarete Amy Lee innobileaza "
+        "piesele care au consacrat trupa si care au ramas nemuritoare pe buzele fanilor din "
+        "intreaga lume. Cu albume vandute in zeci de milioane de exemplare in intreaga lume, "
+        "muzica Evanescence a fost rasplatita cu numeroase nominalizari si premii internationale, "
+        "printre care doua Grammy&#8211;uri primite in anul 2004 pentru piesa \"Bring Me To Life\", "
+        "la categoriile \"Best New Artist\" si \"Best Hard Rock Performance\".\n\n"
+
+        "Albumul \"Fallen\" a ramas si in ziua de azi in topul preferintelor celor ce iubesc muzica "
+        "rock, acesta fiind certificat cu Platina in intreaga lume. \"Fallen\" este unul dintre cele "
+        "opt albume, ale tuturor timpurilor, care au reusit sa ramana in top Billboad 200 pentru o "
+        "perioada mai mare de un an. \"The Open Door\" (2006) a marcat un nou succes in palmaresul "
+        "celebrului grup, cu piese precum \"Lithium\" sau \"Sweet Sacrifice\", iar \"Evanescence\" (2011) "
+        "a ajuns pe primele locuri imediat dupa lansare si a fost premiat cu Aur in Australia, "
+        "Canada si Marea Britanie.\n\n"
+
+        "Muzica formatiei Evanescence poarta o paleta intreaga de influente si a fost incadrata "
+        "de catre critici in diverse categorii, de la rock, nu metal si gothic, la industrial, "
+        "progressive sau hard rock. Cu valente sofisticate si o atentie deosebita pentru detalii, "
+        "Evanescence au reusit sa ofere publicului piese fascinante care au trecut deja de proba "
+        "timpului.\n\n"
+
+        "Alaturi de Evanescence veti avea ocazia sa vedeti trei super trupe ale caror compozitii "
+        "au depasit granitele tarilor din care provin: Killa (IT), Sede Vacante (GR) si Fall Has "
+        "Come (IT).\n\n"
+    </string>
+    <string name="shine_festival_description">
+        "A patra ediție a festivalului Shine va avea loc în perioada 30 iunie&#8211;1 iulie 2017, la "
+        "Arenele Romane. "
+        "După ce în 2015 a câștigat tilul de \„Best Alternative Festival\” la Metalhead Awards, iar "
+        "în 2016 s&#8211;a bucurat de prezența a peste 8.000 de spectatori în cele două zile, sub egida "
+        "\„Come &amp; Shine\”, Shine își dorește să&#8211;și mențină poziția de lider pe piața festivalurilor "
+        "din Capitală și mulțumește fanilor pentru votul de încredere și le promite că nu le va "
+        "înșela așteptările nici în 2017.\n\n"
+
+        "Canadienii de la Three Days Grace sosesc în premieră în România ca headlineri ai festivalului "
+        "Shine, ediția a patra, festival ce va avea loc pe 30 iunie și 1 iulie la Arenele Romane "
+        "din București. Festivalul și&#8211;a schimbat data (inițial acesta avea loc pe 1 și 2 iulie) "
+        "tocmai pentru a face loc unui nume așa mare pe scena sa! De asemenea, Subcarpați vin "
+        "pentru al doilea an consecutiv să bubuie boxele Arenelor Romane, devenind oficial alături "
+        "de Coma și Alternosfera, ambasadorii festivalului.\n\n"
+
+        "Pe lângă trupele menționate mai sus, pe scena festivalului vor mai urca  Vița de Vie, Șuie "
+        "Paparude, E.M.I.L. și Luna Amară. Cele mai noi trupe confirmate, care și închid afișul "
+        "festivalului, sunt: Am Fost la Munte și Mi&#8211;a Plăcut, Jinxy Von D’ers, Umbra, Next Ex, "
+        "Arthur și Mouse N Monkeyz.\n\n"
+    </string>
+    <string name="mogosoaia_palace_description">
+        "Palatul Mogoșoaia este o clădire istorică din localitatea Mogoșoaia, județul Ilfov, România, "
+        "aflată la circa 15 km de centrul orașului București. Complexul conține clădirea propriu&#8211;zisă, "
+        "curtea acestuia cu turnul de veghe, cuhnia (bucătăria), casa de oaspeți, ghețăria și cavoul "
+        "familiei Bibescu, precum și biserica \„Sfântul Gheorghe\” aflată lângă zidurile curții.\n\n"
+        "Palatul poartă numele văduvei boierului Mogoș care deținea pământul pe care a fost construit.\n\n"
+    </string>
+    <string name="peasant_museum_description">
+        "Muzeul Național al Țăranului Român este unul dintre cele mai diversificate muzee din familia "
+        "europeană a Muzeelor de Arte și Tradiții Populare.\n\n"
+
+        "Muzeul deține colecții de ceramică, port popular, țesături pentru interior, lemn, mobile, "
+        "feronerie, scoarțe. În curtea muzeului dinspre bulevardul Ion Mihalache a fost montată o "
+        "biserică din lemn, monument istoric din secolul al XVIII&#8211;lea, strămutată aici în anul 1992.\n\n"
+
+        "Muzeul a devenit cunoscut pentru colecțiile sale formate din 100.000 de obiecte. Muzeografia "
+        "sa specifică i&#8211;a adus în mai 1996 Premiul Muzeul European al Anului acordat de Forumul "
+        "Muzeului European.\n\n"
+    </string>
+    <string name="romanian_athenaeum_description">
+        "Ateneul Român este o sală de concerte din București, situată pe Calea Victoriei, în Piața "
+        "George Enescu (în partea nordică a Pieței Revoluției). Clădirea, care este realizată într&#8211;o "
+        "combinație de stil neoclasic cu stil eclectic, a fost construită între 1886 și 1888, după "
+        "planurile arhitectului francez Albert Galleron. În prezent, adăpostește și sediul "
+        "Filarmonicii \„George Enescu\”.\n\n"
+    </string>
+    <string name="cec_palace_description">
+        "Palatul CEC este o clădire din București, situată în Calea Victoriei, față în față cu "
+        "Palatul Poștelor, construit în aceeași perioadă.\n\n"
+
+        "Piatra de temelie a Palatului CEC a fost pusă în 8 iunie 1897, în prezența Regelui Carol "
+        "I al României și a Reginei Elisabeta.\n\n"
+
+        "Până în 1875, în acel loc se aflaseră mănăstirea și hanul \"Sfântul Ioan cel Mare\". "
+        "Datând din secolul al XVI&#8211;lea, așezămintele au fost restaurate de Constantin Brâncoveanu "
+        "în anii 1702&#8211;1703 pentru ca apoi, degradându&#8211;se, să fie demolate în anul 1875. Actuala "
+        "clădire a fost ridicată după demolarea primului sediu al Casei de Depuneri (ridicat la "
+        "rândul lui în locul mânăstirii).\n\n"
+
+        "Realizată după planurile arhitectului Paul Gottereau, cu elemente specifice din arhitectura "
+        "franceză de la sfârșitul secolului XIX, Palatul CEC a fost terminat în anul 1900.\n\n"
+
+        "În prezent, palatul găzduiește sediul CEC Bank, urmașa vechiului CEC.\n\n"
+    </string>
+    <string name="afi_palace_description">
+        "AFI Palace Cotroceni este un centru comercial din București care a fost inaugurat la 29 "
+        "octombrie 2009, fiind în prezent cel mai mare mall din România. Investiția în proiect s&#8211;a "
+        "ridicat la 300 milioane euro, cea mai mare de acest gen din România. Centrul comercial este "
+        "deținut de compania AFI Europe, parte a grupului Africa Israel, și a fost construit pe "
+        "fosta platformă a UMEB.\n\n"
+
+        "AFI Palace Cotroceni are o suprafață închiriabilă de aproximativ 76.000 metri pătrați și "
+        "cuprinde 300 de magazine, 2.500 de locuri de parcare, un hypermarket Auchan deschis non "
+        "stop, 20 de săli de cinema, primul cinematograf IMAX din România (3D), restaurante, "
+        "o pistă de carting, două cazinouri, un patinoar de aproximativ 1.000 de metri pătrați, "
+        "un perete de escaladă, un lac artificial, un teren de joacă pentru copii, o pistă de "
+        "role, bowling și snooker.\n\n"
+
+        "Este situat în partea centrală de vest a orașului, în sectorul 6, între centrul orașului "
+        "și cele mai mari cartiere din București, Militari și Drumul Taberei. Proiectul a fost "
+        "construit în locul fostei fabrici UMEB, din București, care a fost parțial demolată.\n\n"
+    </string>
+    <string name="baneasa_shooping_city_description">
+        "Băneasa Shopping City este un centru comercial din nordul Bucureștiului, deschis la data de "
+        "18 aprilie 2008. Are o suprafață totală închiriabilă de 85.000 metri pătrați și este deținut "
+        "de omul de afaceri Gabriel Popoviciu. Constructorul mallului a fost firma franceză Bouygues. "
+        "Investiția în dezvoltarea mallului a fost de 150 milioane euro. Băneasa Shopping City este "
+        "al cincilea mall deschis în București după București Mall și Plaza Romania, City Mall și "
+        "Unirea Shopping Center. Cuprinde în total 200 de magazine. Centrul comercial a atras, în "
+        "prima lună, peste 750.000 de vizitatori.\n\n"
+
+        "Băneasa Shopping City face parte din Proiectul Băneasa, controlat de oamenii de afaceri "
+        "Gabriel Popoviciu și Radu Dimofte, alături de Universitatea de Științe Agricole și Medicină "
+        "Veterinară București (USAMVB). Investiția în întregul proiect este estimată la 1,8 miliarde "
+        "de euro. Parcul comercial Băneasa (numit și Zona Comercială Băneasa), care cuprinde mallul "
+        "Băneasa Shopping City, Centrul comercial Feeria, dar și unități distincte ale unor retaileri "
+        "precum IKEA, Carrefour, Bricostore sau Mobexpert, este cea mai mare dezvoltare de acest gen "
+        "din România, care a implicat investiții totale estimate la circa 300 milioane euro până în "
+        "prezent. Zona Comercială Băneasa este una dintre cele trei părți integrate ale Proiectului "
+        "Băneasa. Pe lângă zona comercială care se întinde pe o suprafață de 450.000 de metri pătrați, "
+        "Proiectul Băneasa va oferi peste 3.000 de unități locative și un parc de afaceri cu spații "
+        "de birouri tip A și A plus, cu o suprafață de 160.000 de metri pătrați.\n\n"
+    </string>
+    <string name="plaza_romania_description">
+        "Plaza Romania este un centru comercial din București, inaugurat la data de 28 octombrie 2004. "
+        "Are o suprafață închiriabilă de 41.000 de metri pătrați, și găzduiește în total peste 150 de  "
+        "magazine și săli de cinematograf. Este situat la intersecția Bulevardului Timișoara cu  "
+        "Pasajul Lujerului, între cartierele Drumul Taberei și Militari. A fost inaugurat în urma unei  "
+        "investiții totale de 45 milioane de euro.\n\n"
+
+        "Este deținut de compania Anchor Group din Turcia, care mai deține și centrul comercial "
+        "București Mall. Anchor Grup face parte din grupul turc FIBA și este unul dintre primii "
+        "investitori străini care au intrat pe piața locală de real estate în 1997.\n\n"
+    </string>
+    <string name="promenada_mall_description">
+        "Promenada Mall București este un centru comercial din România. A fost dezvoltat de fondul "
+        "de investiții Raiffeisen Evolution și a fost inaugurat pe 17 octombrie 2013, după o "
+        "investiție de 130 milioane de euro. Promenada este primul mall din București deschis "
+        "după criza financiară din 2007&#8211;2009, construcția a început la data de ianuarie 2012 "
+        "și a durat 22 de luni.\n\n"
+
+        "În centrul comercial sunt prezente firmele Flanco, Billa, Zara, H&amp;M, C&amp;A și Peek "
+        "&amp; Cloppenburg.\n\n"
+
+        "Promenada Mall, București a câștigat premiul I la categoria \„Soluții mixte\” la Prima ediție "
+        "a premiilor Rigips Trophy România.\n\n"
+
+        "În noiembrie 2013, centrul comercial a fost cumpărat de fondul de investiții NEPI.\n\n"
+    </string>
+    <string name="peasant_museum">Muzeul Național al Țăranului Român</string>
+    <string name="romanian_athenaeum">Ateneul Român</string>
+    <string name="shine_festival_address">Arenele Romane, Parcul Carol I</string>
+    <string name="evanescence_concert_address">Arenele Romane, Parcul Carol I</string>
+    <string name="jazz_festival_address">Piața George Enescu</string>
+    <string name="evanescence_concert">Concert Evanescence</string>
+    <string name="cec_palace">Palatul CEC</string>
+    <string name="mogosoaia_palace">Palatul Mogoșoaia</string>
+    <string name="mogosoaia_palace_address">Valea Parcului 1, Mogoșoaia</string>
+
+</resources>
